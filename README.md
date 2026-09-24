@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Prameela. Currently persuing Bachelor of Technology at Institute of Aeronautical Engineering(IARE). Dudndigal; Hyderabad.
+I am currently working on Hack with Hyderabad Hackathon. I am a coder, Developer and a designer. I am looking to collaborate with the people who actively participate and have a knowledge of conding. I am looking forward to learn many things. 
 
 <!--
 **prameela-verse/prameela-verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
